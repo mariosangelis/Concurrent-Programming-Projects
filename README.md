@@ -1,7 +1,7 @@
 # ECE321 Concurrent Programming Team Projects
 
 #### Project1:
->  Implementation of a FIFO pipe for the communication between two threads. /<br/>
+>  Implementation of a FIFO pipe for the communication between two threads. /<br
 >  Implementation of a parallel retrospective version of the QuikSort. /<br/>
 >  Primality test using n threads.  Threads synchronized with spinning method. /<br/>
 
